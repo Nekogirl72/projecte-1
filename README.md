@@ -29,7 +29,7 @@ La web está desarrollada con HTML y CSS, y está pensada para mostrarse en nave
 
 ```text
 WEB_PROJECTE1/
-├── home.html              # Página principal
+├── index.html             # Página principal
 ├── registre.html          # Formulario de inscripción
 ├── contacte.html          # Información de contacto
 ├── FAQ.html               # Preguntas frecuentes
@@ -47,7 +47,7 @@ WEB_PROJECTE1/
 ### Opción 1: abrir directamente en el navegador
 
 1. Abre la carpeta del proyecto.
-2. Haz doble clic sobre `home.html`.
+2. Haz doble clic sobre `index.html`.
 3. La página se mostrará en tu navegador.
 
 ### Opción 2: usar un servidor local
