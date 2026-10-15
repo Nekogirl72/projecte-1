@@ -596,7 +596,6 @@ form .campos textarea {
     font-size: 14px;
   }
 
-
   /* MENÚ */
   .fondomenu {
     padding: 0 10px;
@@ -623,12 +622,10 @@ form .campos textarea {
     padding: 6px 12px;
   }
 
-
   /* BODY */
   .body {
     padding-top: 100px;
   }
-
 
   /* HERO */
   .hero img {
@@ -658,7 +655,6 @@ form .campos textarea {
     border-radius: 36px;
   }
 
-
   /* SECCIÓN DATES */
   .dates .imgdates {
     flex-direction: column;
@@ -670,7 +666,6 @@ form .campos textarea {
     width: 80vw;
     margin: 10px 0;
   }
-
 
   /* SECCIÓN ITINERARI */
   table {
@@ -684,7 +679,6 @@ form .campos textarea {
     padding: 8px 10px;
     font-size: 14px;
   }
-
 
   /* SECCIÓN PATROCINADORS */
   .graella-patrocinadors {
@@ -726,12 +720,10 @@ form .campos textarea {
     font-size: 13px;
   }
 
-
   /* SECCIÓN LEGAL */
   .estil-text-legal {
     padding: 20px 15px;
   }
-
 
   /* SECCIÓN CONTACTE */
   .expmapa .xarxes {
@@ -769,7 +761,6 @@ form .campos textarea {
   #missatge {
     height: 80px;
   }
-
 
   /* SECCIÓN REGISTRE */
   .seccio-registre,
